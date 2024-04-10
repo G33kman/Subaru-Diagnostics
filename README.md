@@ -4,6 +4,7 @@
 ![GR Subaru WRX Car](/assets/images/subaru-wrx-hero-image.svg)
 
 > [!IMPORTANT]
-> Key information users need to know to achieve their goal.
+> All information referenced in this repo that apply to troubleshooting and errors are linked to the 2008 Subaru WRX.
+> To see information for other Subaru Makes and Models please vist. [jdmfsm.info](https://jdmfsm.info/)
 
 ## Primary Objectives:
