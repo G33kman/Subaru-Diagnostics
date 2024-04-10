@@ -46,7 +46,7 @@ STATUS
 **Section Type** 
 
 > [NOTE]
-> Engine Coolant Temperature Below THermostat Regulating Temperature.
+> Engine Coolant Temperature Below Thermostat Regulating Temperature.
 
 ### DTC CODE: P0244
 STATUS
