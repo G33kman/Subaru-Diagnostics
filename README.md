@@ -14,5 +14,4 @@
  - Store Data Logs on how the car is running
  
  > [!NOTE]
- > May need to add other Primary Objectives
- > Also, may need to look into other sections than just the Primary Objectives
+ > May need to add other objective sections
