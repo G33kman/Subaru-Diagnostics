@@ -36,3 +36,8 @@
 - [Replacement Parts List](/Documents/Parts-List/Replacement-Parts.md)
 - [Upgrade Parts List](/Documents/Parts-List/Upgrade-Parts.md)
 ---
+### Software Links
+- [Cobb AP Manager](https://www.cobbtuning.com/products/software/accessport-manager)
+- [Cobb AP Map Repo](https://www.dropbox.com/sh/qr16webgzyhd2r6/AABi_qMkOsInCSmBx0PDnEZQa?dl=0)
+- [RomRaider](https://github.com/RomRaider/RomRaider)
+---
