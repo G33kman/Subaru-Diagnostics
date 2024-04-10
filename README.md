@@ -1,4 +1,5 @@
 # Subaru Diagnostics Tracker
+
 >A Repository to keep track of issues, completed fixes, parts, etc...
 
 ![GR Subaru WRX Car](/assets/images/subaru-wrx-hero-image.svg)
@@ -14,3 +15,4 @@
  
  > [!NOTE]
  > May need to add other Primary Objectives
+ > Also, may need to look into other sections than just the Primary Objectives
