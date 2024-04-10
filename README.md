@@ -33,5 +33,6 @@
 ---
 ---
 ### Parts List
-
+- [Replacement Parts List](/Documents/Parts-List/Replacement-Parts.md)
+- [Upgrade Parts List](/Documents/Parts-List/Upgrade-Parts.md)
 ---
